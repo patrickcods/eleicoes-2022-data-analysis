@@ -56,20 +56,22 @@ O objetivo principal foi responder se o volume financeiro dita o vencedor e extr
 
 *   **Polarização de Estratégias de Captação:** O cruzamento via matriz revelou caminhos opostos de receita: o PT focou majoritariamente no Fundo Especial público (mais de R$ 125 milhões), enquanto o PL baseou o grosso de sua estrutura em "Outros Recursos" (doações privadas, pessoas físicas e financiamento coletivo, superando R$ 94 milhões). Podemos ver esse comparativo no gráfico abaixo:
   
-  <img width="3051" height="1641" alt="comparativo_fontes_receita_agrupado" src="https://github.com/user-attachments/assets/9f30bb52-eaf5-4e37-838b-497da9db0e9a" />
-
+![Comparativo de Fontes de Receita](img/comparativo_fontes_receita_agrupado.png)
 
 ---
 
 ## Análise visual de Outliers
 
-<img width="1797" height="1307" alt="grafico_dispersao_eleicoes" src="https://github.com/user-attachments/assets/b2b421db-4041-4a0d-a364-bf5b7cf27504" />
-
+![Análise de Outliers](img/grafico_dispersao_eleicoes.png)
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 ```text
-├── notebooks/         # Jupyter Notebook com o pipeline de código comentado
-└── README.md          # Documentação do projeto
+├── img/                # Visualizações gráficas e plots do projeto
+│   ├── comparativo_fontes_receita_agrupado.png
+│   └── grafico_dispersao_eleicoes.png
+├── notebooks/          # Jupyter Notebook com o pipeline de código
+│   └── analise_eleitoral.ipynb
+└── README.md           # Documentação e relatório do projeto
