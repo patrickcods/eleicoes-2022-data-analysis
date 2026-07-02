@@ -23,14 +23,14 @@ O objetivo principal foi responder se o volume financeiro dita o vencedor e extr
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
-    *   **Python 3** como linguagem base.
+*   **Python 3** como linguagem base.
     *   **Pandas** para todo o pipeline de engenharia e modelagem de dados:
     *   Saneamento de strings e conversão de tipos de dados (`astype`, substituição de caracteres).
     *   Manipulação de séries temporais (`to_datetime`).
     *   Agregações complexas e agrupamentos multicolunas (`groupby` + `sum`).
     *   Matrizes dinâmicas de cruzamento (`pivot_table`).
     *   Junção de bases de dados heterogêneas (`merge`/JOIN estrutural).
-    *   **Seaborn & Matplotlib** para análise exploratória visual (Gráficos de Barras e Gráficos de Dispersão/*Scatter Plots*).
+*   **Seaborn & Matplotlib** para análise exploratória visual (Gráficos de Barras e Gráficos de Dispersão/*Scatter Plots*).
 
 ---
 
