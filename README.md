@@ -54,9 +54,9 @@ O objetivo principal foi responder se o volume financeiro dita o vencedor e extr
   
 *   **Outliers de Ineficiência:** Soraya Thronicke (UNIÃO) figurou como o maior ralo de conversão financeira, movimentando mais de R$ 36 milhões para obter cerca de 600 mil votos, o que gerou um custo proibitivo de **R$ 61,03** por voto conquistado.
 
-*   **Polarização de Estratégias de Captação:** O cruzamento via matriz revelou caminhos opostos de receita: o PT focou majoritariamente no Fundo Especial público (mais de R$ 125 milhões), enquanto o PL baseou o grosso de sua estrutura em "Outros Recursos" (doações privadas, pessoas físicas e financiamento coletivo, superando R$ 94 milhões).
+*   **Polarização de Estratégias de Captação:** O cruzamento via matriz revelou caminhos opostos de receita: o PT focou majoritariamente no Fundo Especial público (mais de R$ 125 milhões), enquanto o PL baseou o grosso de sua estrutura em "Outros Recursos" (doações privadas, pessoas físicas e financiamento coletivo, superando R$ 94 milhões). Podemos ver esse comparativo no gráfico abaixo:
   
-  ![Comparativo de Fontes de Receita]<img width="3051" height="1641" alt="comparativo_fontes_receita_agrupado" src="https://github.com/user-attachments/assets/9f30bb52-eaf5-4e37-838b-497da9db0e9a" />
+  <img width="3051" height="1641" alt="comparativo_fontes_receita_agrupado" src="https://github.com/user-attachments/assets/9f30bb52-eaf5-4e37-838b-497da9db0e9a" />
 
 
 ---
