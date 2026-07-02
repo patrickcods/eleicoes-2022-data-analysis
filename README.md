@@ -21,6 +21,18 @@ O objetivo principal foi responder se o volume financeiro dita o vencedor e extr
 
 ---
 
+### Resumo Executivo: Os Principais Candidatos
+
+| Candidato | Valor de Receita | Votos Nominais | Custo por Voto |
+| :--- | :--- | :--- | :--- |
+| **Lula** | R$ 135.5M | 57.2M | R$ 2.37 |
+| **Bolsonaro** | R$ 126.1M | 51.0M | R$ 2.47 |
+| **Simone Tebet** | R$ 38.8M | 4.9M | R$ 7.90 |
+| **Ciro Gomes** | R$ 36.0M | 3.5M | R$ 10.01 |
+| **Soraya Thronicke**| R$ 36.6M | 0.6M | R$ 61.03 |
+
+---
+
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
 *   **Python 3** como linguagem base.
