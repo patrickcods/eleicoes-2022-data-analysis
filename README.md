@@ -51,12 +51,13 @@ O objetivo principal foi responder se o volume financeiro dita o vencedor e extr
 *   **Concentração de Mercado (Market Share):** Os dois candidatos que avançaram ao segundo turno (Lula e Bolsonaro) concentraram sozinhos **69,11%** de todo o dinheiro que circulou na eleição presidencial, evidenciando um forte abismo financeiro para o restante do pelotão.
 
 *   **Eficiência dos Líderes:** Houve um empate técnico na eficiência de conversão das duas maiores campanhas. O candidato Luiz Inácio Lula da Silva operou a um custo de **R$ 2,37** por voto obtido, enquanto Jair Messias Bolsonaro registrou **R$ 2,47** por voto. Ambos atuaram muito abaixo da linha de base/mediana nacional, que foi de **R$ 14,52**.
+  
+*   **Outliers de Ineficiência:** Soraya Thronicke (UNIÃO) figurou como o maior ralo de conversão financeira, movimentando mais de R$ 36 milhões para obter cerca de 600 mil votos, o que gerou um custo proibitivo de **R$ 61,03** por voto conquistado.
 
 *   **Polarização de Estratégias de Captação:** O cruzamento via matriz revelou caminhos opostos de receita: o PT focou majoritariamente no Fundo Especial público (mais de R$ 125 milhões), enquanto o PL baseou o grosso de sua estrutura em "Outros Recursos" (doações privadas, pessoas físicas e financiamento coletivo, superando R$ 94 milhões).
+  
   ![Comparativo de Fontes de Receita]<img width="3051" height="1641" alt="comparativo_fontes_receita_agrupado" src="https://github.com/user-attachments/assets/9f30bb52-eaf5-4e37-838b-497da9db0e9a" />
 
-
-*   **Outliers de Ineficiência:** Soraya Thronicke (UNIÃO) figurou como o maior ralo de conversão financeira, movimentando mais de R$ 36 milhões para obter cerca de 600 mil votos, o que gerou um custo proibitivo de **R$ 61,03** por voto conquistado.
 
 ---
 
