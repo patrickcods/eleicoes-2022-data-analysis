@@ -46,9 +46,15 @@ O objetivo principal foi responder se o volume financeiro dita o vencedor e extr
 
 ---
 
+## Análise visual de Outliers
+
+<img width="1797" height="1307" alt="grafico_dispersao_eleicoes" src="https://github.com/user-attachments/assets/b2b421db-4041-4a0d-a364-bf5b7cf27504" />
+
+
+---
+
 ## 📂 Estrutura do Repositório
 
 ```text
-├── data/              # Instruções ou arquivos reduzidos de dados brutos (TSE)
 ├── notebooks/         # Jupyter Notebook com o pipeline de código comentado
 └── README.md          # Documentação do projeto
